@@ -4,7 +4,7 @@ FPS chess, internal with aim tracer and boxes and name so object name credits to
 here's the updated sdk just download it include it in you're project then you're good.
 
 
-lucasfr.no/SDK.rar
+https://lucasfr.no/SDK.rar
 
 How do i dump my own SDK?
 Use https://github.com/Encryqed/Dumper-7 build it in release then when you've done that open process hacker then find FPSChess-Win64-Shipping.exe. then inject dll then find your dll then select it then open it'll create a sdk automatically so go to C:\Dumper-7\4.26.2-15973114+++UE4+Release-4.26-FPSChess\CppSDK\SDK go one back then copy the file and paste in your project there you go.
