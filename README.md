@@ -6,8 +6,13 @@ here's the updated sdk just download it include it in you're project then you're
 
 https://lucasfr.no/SDK.rar
 
+How do i build? 
+
+Put it on release C++ 20 in properties. CTRL SHIFT B then you're done.
+
+
 How do i dump my own SDK?
-Use https://github.com/Encryqed/Dumper-7 build it in release then when you've done that open process hacker then find FPSChess-Win64-Shipping.exe. then inject dll then find your dll then select it then open it'll create a sdk automatically so go to C:\Dumper-7\4.26.2-15973114+++UE4+Release-4.26-FPSChess\CppSDK\SDK go one back then copy the file and paste in your project there you go.
+Use https://github.com/Encryqed/Dumper-7 build it in release then when you've done that open process hacker then find FPSChess-Win64-Shipping.exe. then inject dll then find your dll then select it then open it'll create a sdk automatically so go to C:\Dumper-7\4.26.2-15973114+++UE4+Release-4.26-FPSChess\CppSDK\SDK go one back then copy the file and paste in your project and include it and there you go you've updated you're sdk!
 
 
 <img width="218" height="277" alt="image" src="https://github.com/user-attachments/assets/35ca0fdc-f18e-4630-9401-091d17ea7007" /> 
